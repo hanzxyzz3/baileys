@@ -1,6 +1,6 @@
 {
-    "name": "@badzz88/baileys",
-    "version": "7.0.0",
+    "name": "@hanzxyzz3/baileys",
+    "version": "2.0.0",
     "description": "WhatsApp API Modification By Badzz88",
     "keywords": [
         "whatsapp",
@@ -17,7 +17,7 @@
         "url": "https://github.com/Badzz88/baileys"
     },
     "license": "MIT",
-    "author": "B4DZZN3",
+    "author": "Hanzxyzz",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
